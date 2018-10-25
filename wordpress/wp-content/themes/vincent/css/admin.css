@@ -1,0 +1,154 @@
+#image-post-format-settings {
+    display: none;
+}
+
+.widget-content .vincent_widget label {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.widget-content label:first-child {
+    margin-top: 0;
+}
+
+.vincent_50_dib {
+    float: left;
+    width: 50%;
+}
+
+.vincent_text_table_row, .vincent_text_table_add_row {
+    clear: both;
+}
+
+.vincent_text_table_row {
+    margin-top: 15px;
+    overflow: hidden;
+    position: relative;
+    padding: 13px 15px;
+    border: 1px solid #e5e5e5;
+    background: #ffffff;
+}
+
+.vincent_text_table_row:first-child {
+    margin-top: 0;
+}
+
+.vincent_text_table_add_row {
+    margin-top: 20px !important;
+    margin-bottom: 15px !important;
+}
+
+.vincent_text_table_rows {
+    overflow: hidden;
+}
+
+.vincent_text_table_row .vincent_50_dib:first-child input {
+    width: 95%;
+}
+
+.vincent_text_table_row textarea {
+    height: 100px;
+}
+
+.vincent_dn {
+    display: none;
+}
+
+.vincent_text_table_row_remove, .vincent_text_table_row_move {
+    position: absolute;
+    bottom: 17px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #008ec2;
+    transition: 0.2s all;
+}
+
+.vincent_text_table_row_remove {
+    left: 17px;
+}
+
+.vincent_text_table_row_move {
+    left: 45px;
+}
+
+.vincent_text_table_row_remove:hover, .vincent_text_table_row_move:hover {
+    color: #000;
+}
+
+.postbox-container .rwmb-meta-box {
+    margin-top: 20px;
+}
+
+/* Visual Composer */
+.vincent_delim_dot:after {
+    content: ".";
+    display: inline-block;
+}
+
+.vincent_delim_dot:last-child:after {
+    display: none;
+}
+
+.vincent_delim_comma:after {
+    content: ",";
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.vincent_delim_comma:last-child:after {
+    display: none;
+}
+
+body .vincent_blog.vc_element-icon {
+    background-position: 0 -32px;
+}
+
+body .vincent_custom_button.vc_element-icon {
+    background-position: 0 -448px;
+}
+
+body .vincent_iconbox.vc_element-icon,
+body .vincent_infobox.vc_element-icon {
+    background-position: 0 -224px;
+}
+
+body .vincent_custom_map.vc_element-icon,
+body .vincent_contacts.vc_element-icon {
+    background-position: 0 -320px;
+}
+
+body .pm_stripes_item.vc_element-icon {
+    background-position: 0 -352px;
+}
+
+body .vincent_blockquote.vc_element-icon,
+body .pm_testimonials_item.vc_element-icon {
+    background-position: 0 -640px;
+}
+
+body .vincent_image_cover.vc_element-icon {
+    background-position: 0 -672px;
+}
+
+body .vincent_product_listing.vc_element-icon,
+body .vincent_custom_products.vc_element-icon,
+body .vincent_best_offer.vc_element-icon {
+    background-position: 0 -1280px;
+}
+
+body .vincent_countdown.vc_element-icon {
+    background-position: 0 -1440px;
+}
+
+body .vincent_team_item.vc_element-icon {
+    background-position: 0 -1728px;
+}
+
+body .vc_col-sm-6.wpb_el_type_colorpicker.vc_wrapper-param-type-colorpicker.vc_shortcode-param.vc_column:first-child {
+    padding-top: 15px;
+}
+
+.vincent_admin_wrapper {
+	padding: 20px 10px;
+}

@@ -1,0 +1,15 @@
+/* Dropcap */
+.vincent_dropcap {
+	display:inline-block;
+	float:left;
+	font-size:28px;
+	line-height:30px;
+	font-weight:700;
+	margin:1px 15px 0 0;
+	width:auto;
+	height:auto;
+	text-1d1d1d:uppercase;
+	color:#363636;	
+	padding:5px;
+	border:#e5e5e5 1px dashed;
+}

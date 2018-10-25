@@ -1,0 +1,2400 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-04 14:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops, Page Not Found!"
+msgstr ""
+
+#: 404.php:16
+msgid "Back Home"
+msgstr ""
+
+#: category.php:29 index.php:29 search.php:61 vc_templates/pm_vc_blog.php:318
+msgid "<i class=\"fa fa-angle-double-left\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: category.php:30 index.php:30 search.php:62 vc_templates/pm_vc_blog.php:319
+msgid "<i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: comments.php:31
+msgid "Reply"
+msgstr ""
+
+#: comments.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:63
+msgid "Comments on This Post"
+msgstr ""
+
+#: comments.php:92
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:93
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:95
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:96
+msgid "Send Message"
+msgstr ""
+
+#: functions.php:61 core/ajax.php:98
+msgid "You do not have permissions to access this page."
+msgstr ""
+
+#: functions.php:65
+msgid "Hey!"
+msgstr ""
+
+#: functions.php:66
+msgid "All settings of our theme are made through a standard Customizer. Click"
+msgstr ""
+
+#: functions.php:66
+msgid "here"
+msgstr ""
+
+#: functions.php:66
+msgid "to go to the settings"
+msgstr ""
+
+#: functions.php:68
+msgid "If you want to reset all settings, feel free to click on"
+msgstr ""
+
+#: functions.php:68
+msgid "this link"
+msgstr ""
+
+#: functions.php:68
+msgid "But remember that there is no turning back ;)"
+msgstr ""
+
+#: functions.php:70
+msgid ""
+"If you have any questions, problems or want to talk - email us via the form "
+"on"
+msgstr ""
+
+#: functions.php:70
+msgid "this"
+msgstr ""
+
+#: functions.php:70
+msgid "page"
+msgstr ""
+
+#: functions.php:133
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:134 core/metabox.php:313 core/metabox.php:366
+msgid "Footer"
+msgstr ""
+
+#: functions.php:259
+msgid "Please create and select menu in Appearance (Menus)"
+msgstr ""
+
+#: functions.php:287
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:289
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:299
+msgid "Header (Left)"
+msgstr ""
+
+#: functions.php:301
+msgid "Widgets in this area will be shown in the left part of Header."
+msgstr ""
+
+#: functions.php:311
+msgid "Header (Right)"
+msgstr ""
+
+#: functions.php:313
+msgid "Widgets in this area will be shown in the right part of Header."
+msgstr ""
+
+#: functions.php:324 core/customizer.php:1722 core/tgm/init.php:73
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:326
+msgid "WooCommerce Sidebar. Enabled only when WooCommerce Plugin activate."
+msgstr ""
+
+#: functions.php:656
+msgid "Hello!"
+msgstr ""
+
+#: functions.php:658
+msgid "Click Here, "
+msgstr ""
+
+#: functions.php:660
+msgid "It's a Link Post!"
+msgstr ""
+
+#: functions.php:852 single.php:19 vc_templates/pm_vc_blog.php:114
+#: vc_templates/pm_vc_blog.php:250
+msgid "in"
+msgstr ""
+
+#: functions.php:863 single.php:21 vc_templates/pm_vc_blog.php:131
+#: vc_templates/pm_vc_blog.php:268
+msgid "by"
+msgstr ""
+
+#: functions.php:1117
+msgid "Archive by category"
+msgstr ""
+
+#: functions.php:1121
+msgid "Archive by tag"
+msgstr ""
+
+#: functions.php:1127
+msgid "All posts by"
+msgstr ""
+
+#: functions.php:1131
+msgid "Search results by"
+msgstr ""
+
+#: functions.php:1225
+msgid "Gap"
+msgstr ""
+
+#: functions.php:1226
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: functions.php:1253
+msgid "Columns gap"
+msgstr ""
+
+#: functions.php:1275
+msgid "Select gap between columns in row."
+msgstr ""
+
+#: functions.php:1280
+msgid "Style"
+msgstr ""
+
+#: functions.php:1281
+msgid "Select accordion display style."
+msgstr ""
+
+#: functions.php:1285
+msgid "Classic"
+msgstr ""
+
+#: functions.php:1286
+msgid "Modern"
+msgstr ""
+
+#: functions.php:1287 functions.php:1349 core/customizer.php:492
+msgid "Flat"
+msgstr ""
+
+#: functions.php:1288
+msgid "Outline"
+msgstr ""
+
+#: functions.php:1289
+msgid "Pixel-Mafia Style"
+msgstr ""
+
+#: functions.php:1295
+msgid "Shape"
+msgstr ""
+
+#: functions.php:1296
+msgid "Select accordion shape."
+msgstr ""
+
+#: functions.php:1299
+msgid "Rounded"
+msgstr ""
+
+#: functions.php:1300 core/customizer.php:1808
+msgid "Square"
+msgstr ""
+
+#: functions.php:1301
+msgid "Round"
+msgstr ""
+
+#: functions.php:1311 core/vc-elements/team/team.php:138
+msgid "Color"
+msgstr ""
+
+#: functions.php:1312
+msgid "Select accordion color."
+msgstr ""
+
+#: functions.php:1325
+msgid "Do not fill content area?"
+msgstr ""
+
+#: functions.php:1326
+msgid "Do not fill content area with color."
+msgstr ""
+
+#: functions.php:1344 core/customizer.php:486
+msgid "Border Type"
+msgstr ""
+
+#: functions.php:1345
+msgid "Select the type of border of element"
+msgstr ""
+
+#: functions.php:1350
+msgid "Figure"
+msgstr ""
+
+#: functions.php:1356
+msgid "Figure Border Location"
+msgstr ""
+
+#: functions.php:1357
+msgid "Select the location of figure border in the element"
+msgstr ""
+
+#: functions.php:1365
+msgid "Top"
+msgstr ""
+
+#: functions.php:1366
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:1367
+msgid "Both"
+msgstr ""
+
+#: functions.php:1411
+msgid "Product Detail"
+msgstr ""
+
+#: functions.php:1521
+msgid "Delivery"
+msgstr ""
+
+#: page.php:22 single.php:29 woocommerce.php:22
+msgid "Pages"
+msgstr ""
+
+#: search.php:40 standard-listing.php:51
+msgid "by "
+msgstr ""
+
+#: search.php:52 standard-listing.php:76 vc_templates/pm_vc_blog.php:161
+#: vc_templates/pm_vc_blog.php:214
+msgid "Read More"
+msgstr ""
+
+#: search.php:67
+msgid "Oops! Nothing Found!"
+msgstr ""
+
+#: searchform.php:12 searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search the site..."
+msgstr ""
+
+#: single.php:36
+msgid "Tags: "
+msgstr ""
+
+#: single.php:45
+msgid "Share this Post"
+msgstr ""
+
+#: single.php:49 core/customizer.php:803
+msgid "Facebook"
+msgstr ""
+
+#: single.php:54 core/customizer.php:790
+msgid "Twitter"
+msgstr ""
+
+#: single.php:59 core/customizer.php:829
+msgid "Google +"
+msgstr ""
+
+#: single.php:64 core/customizer.php:868
+msgid "Pinterest"
+msgstr ""
+
+#: standard-listing.php:31
+msgid "in "
+msgstr ""
+
+#: core/ajax.php:103
+msgid "Done!"
+msgstr ""
+
+#: core/customizer.php:48
+msgid "Copyright &copy; 2017 Vincent. All Rights Reserved."
+msgstr ""
+
+#: core/customizer.php:140
+msgid "Header Settings"
+msgstr ""
+
+#: core/customizer.php:151 core/metabox.php:278 core/metabox.php:331
+msgid "Transparent Header"
+msgstr ""
+
+#: core/customizer.php:156 core/customizer.php:1827 core/metabox.php:146
+#: core/metabox.php:283 core/metabox.php:336
+msgid "Disabled"
+msgstr ""
+
+#: core/customizer.php:157 core/customizer.php:1826 core/metabox.php:145
+#: core/metabox.php:282 core/metabox.php:335
+msgid "Enabled"
+msgstr ""
+
+#: core/customizer.php:169
+msgid "Type of Header"
+msgstr ""
+
+#: core/customizer.php:174 core/vc-elements/blockquote/blockquote.php:47
+#: core/vc-elements/product_listing/product_listing.php:31
+msgid "Type 1"
+msgstr ""
+
+#: core/customizer.php:175 core/vc-elements/blockquote/blockquote.php:48
+#: core/vc-elements/product_listing/product_listing.php:32
+msgid "Type 2"
+msgstr ""
+
+#: core/customizer.php:176
+msgid "Type 3"
+msgstr ""
+
+#: core/customizer.php:188
+msgid "Logo Type"
+msgstr ""
+
+#: core/customizer.php:193 core/vc-elements/contacts/contacts.php:47
+#: core/vc-elements/custom_products/custom_products.php:33
+msgid "Image"
+msgstr ""
+
+#: core/customizer.php:194 core/vc-elements/contacts/contacts.php:39
+msgid "Text"
+msgstr ""
+
+#: core/customizer.php:206
+msgid "Logo Image"
+msgstr ""
+
+#: core/customizer.php:220
+msgid "Logo Retina"
+msgstr ""
+
+#: core/customizer.php:235
+msgid "Logo Text"
+msgstr ""
+
+#: core/customizer.php:249
+msgid "Logo Font"
+msgstr ""
+
+#: core/customizer.php:265
+msgid "Logo Size, px"
+msgstr ""
+
+#: core/customizer.php:279
+msgid "Logo Font Weight"
+msgstr ""
+
+#: core/customizer.php:295
+msgid "Logo Uppercase"
+msgstr ""
+
+#: core/customizer.php:310
+msgid "Logo Italic"
+msgstr ""
+
+#: core/customizer.php:325
+msgid "Logo Padding Top, px"
+msgstr ""
+
+#: core/customizer.php:338
+msgid "Logo Padding Bottom, px"
+msgstr ""
+
+#: core/customizer.php:351
+msgid "Header Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:366
+msgid "Header Menu Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:379
+msgid "Header Menu Font Weight"
+msgstr ""
+
+#: core/customizer.php:395
+msgid "Header Menu Uppercase"
+msgstr ""
+
+#: core/customizer.php:409
+msgid "Header Menu Italic"
+msgstr ""
+
+#: core/customizer.php:423
+msgid "Header Sub Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:438
+msgid "Header Sub Menu Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:449 core/metabox.php:293 core/metabox.php:346
+msgid "Page Title"
+msgstr ""
+
+#: core/customizer.php:460 core/customizer.php:1701
+#: core/vc-elements/infobox/infobox.php:100
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer.php:474 core/vc-elements/blog/blog.php:176
+#: core/vc-elements/infobox/infobox.php:123
+#: core/vc-elements/testimonials/testimonials.php:107
+msgid "Text Color"
+msgstr ""
+
+#: core/customizer.php:502 core/metabox.php:225
+msgid "Post Settings"
+msgstr ""
+
+#: core/customizer.php:513 core/metabox.php:230
+msgid "Post Tags"
+msgstr ""
+
+#: core/customizer.php:518 core/customizer.php:1789 core/metabox.php:234
+#: core/metabox.php:244 core/metabox.php:254 core/metabox.php:264
+#: core/metabox.php:296 core/metabox.php:349 core/vc-elements/blog/blog.php:87
+#: core/vc-elements/blog/blog.php:104 core/vc-elements/blog/blog.php:117
+#: core/vc-elements/blog/blog.php:134 core/vc-elements/blog/blog.php:147
+#: core/vc-elements/blog/blog.php:164
+msgid "Show"
+msgstr ""
+
+#: core/customizer.php:519 core/customizer.php:1790 core/metabox.php:235
+#: core/metabox.php:245 core/metabox.php:255 core/metabox.php:265
+#: core/metabox.php:297 core/metabox.php:318 core/metabox.php:350
+#: core/metabox.php:371 core/vc-elements/blog/blog.php:88
+#: core/vc-elements/blog/blog.php:105 core/vc-elements/blog/blog.php:118
+#: core/vc-elements/blog/blog.php:135 core/vc-elements/blog/blog.php:148
+#: core/vc-elements/blog/blog.php:165
+msgid "Hide"
+msgstr ""
+
+#: core/customizer.php:531 core/metabox.php:240
+msgid "Share Buttons"
+msgstr ""
+
+#: core/customizer.php:546 core/metabox.php:250
+msgid "About Author"
+msgstr ""
+
+#: core/customizer.php:561 core/metabox.php:260
+msgid "Posts Navigation"
+msgstr ""
+
+#: core/customizer.php:575
+msgid "Footer Settings"
+msgstr ""
+
+#: core/customizer.php:586
+msgid "Footer Visibility"
+msgstr ""
+
+#: core/customizer.php:601
+msgid "Footer Logo Type"
+msgstr ""
+
+#: core/customizer.php:616
+msgid "Footer Logo Image"
+msgstr ""
+
+#: core/customizer.php:629
+msgid "Footer Logo Retina"
+msgstr ""
+
+#: core/customizer.php:644
+msgid "Footer Logo Text"
+msgstr ""
+
+#: core/customizer.php:657
+msgid "Footer Logo Font"
+msgstr ""
+
+#: core/customizer.php:672
+msgid "Footer Logo Size, px"
+msgstr ""
+
+#: core/customizer.php:685
+msgid "Footer Logo Font Weight"
+msgstr ""
+
+#: core/customizer.php:701
+msgid "Footer Logo Uppercase"
+msgstr ""
+
+#: core/customizer.php:715
+msgid "Footer Logo Italic"
+msgstr ""
+
+#: core/customizer.php:729
+msgid "Footer Logo Padding Top, px"
+msgstr ""
+
+#: core/customizer.php:742
+msgid "Footer Logo Padding Bottom, px"
+msgstr ""
+
+#: core/customizer.php:755
+msgid "Sub-logo Text"
+msgstr ""
+
+#: core/customizer.php:768
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: core/customizer.php:816
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer.php:842
+msgid "YouTube"
+msgstr ""
+
+#: core/customizer.php:855
+msgid "Instagram"
+msgstr ""
+
+#: core/customizer.php:881
+msgid "Tumblr"
+msgstr ""
+
+#: core/customizer.php:894
+msgid "Flickr"
+msgstr ""
+
+#: core/customizer.php:907
+msgid "VK"
+msgstr ""
+
+#: core/customizer.php:920
+msgid "Dribbble"
+msgstr ""
+
+#: core/customizer.php:933
+msgid "Vimeo"
+msgstr ""
+
+#: core/customizer.php:944
+msgid "Sidebars"
+msgstr ""
+
+#: core/customizer.php:955 core/metabox.php:302 core/metabox.php:355
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/customizer.php:968
+msgid "Typography"
+msgstr ""
+
+#: core/customizer.php:979
+msgid "Main Font Family"
+msgstr ""
+
+#: core/customizer.php:994
+msgid "Main Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:1007
+msgid "Main Line-Height, px"
+msgstr ""
+
+#: core/customizer.php:1020
+msgid "Main Font Weight"
+msgstr ""
+
+#: core/customizer.php:1036
+msgid "Alternate Font Family"
+msgstr ""
+
+#: core/customizer.php:1051
+msgid "Content Heading Margin-Bottom, px"
+msgstr ""
+
+#: core/customizer.php:1064
+msgid "H1 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1077
+msgid "H1 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1090
+msgid "H2 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1103
+msgid "H2 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1116
+msgid "H3 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1129
+msgid "H3 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1142
+msgid "H4 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1155
+msgid "H4 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1168
+msgid "H5 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1181
+msgid "H5 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1194
+msgid "H6 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1207
+msgid "H6 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1218
+msgid "Color Settings"
+msgstr ""
+
+#: core/customizer.php:1229
+msgid "Theme Color"
+msgstr ""
+
+#: core/customizer.php:1242
+msgid "Body Color"
+msgstr ""
+
+#: core/customizer.php:1255
+msgid "Dividers Color"
+msgstr ""
+
+#: core/customizer.php:1268
+msgid "Content Color"
+msgstr ""
+
+#: core/customizer.php:1281
+msgid "Headings Color"
+msgstr ""
+
+#: core/customizer.php:1294
+msgid "Text Logo"
+msgstr ""
+
+#: core/customizer.php:1307
+msgid "Text Logo Hover"
+msgstr ""
+
+#: core/customizer.php:1320
+msgid "Text Logo (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1333
+msgid "Text Logo Hover (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1346
+msgid "Header Text"
+msgstr ""
+
+#: core/customizer.php:1359
+msgid "Header Menu"
+msgstr ""
+
+#: core/customizer.php:1372
+msgid "Header Menu Hover"
+msgstr ""
+
+#: core/customizer.php:1385
+msgid "Header Menu (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1398
+msgid "Header Menu Hover (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1411
+msgid "Header Sub Menu Background"
+msgstr ""
+
+#: core/customizer.php:1424
+msgid "Header Sub Menu 3rd Level Background"
+msgstr ""
+
+#: core/customizer.php:1437
+msgid "Header Sub Menu Background (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1450
+msgid "Header Sub Menu 3rd Level Background (Transparent Header)"
+msgstr ""
+
+#: core/customizer.php:1463
+msgid "Header Sub Menu Divider Color"
+msgstr ""
+
+#: core/customizer.php:1476
+msgid "Header Sub Menu 3rd Level Divider Color"
+msgstr ""
+
+#: core/customizer.php:1489
+msgid "Footer Text Logo"
+msgstr ""
+
+#: core/customizer.php:1502
+msgid "Footer Text Logo Hover"
+msgstr ""
+
+#: core/customizer.php:1515
+msgid "Footer Text"
+msgstr ""
+
+#: core/customizer.php:1528
+msgid "Forms Buttons Color"
+msgstr ""
+
+#: core/customizer.php:1541
+msgid "Borders Color"
+msgstr ""
+
+#: core/customizer.php:1554
+msgid "404 Page Text Color"
+msgstr ""
+
+#: core/customizer.php:1567
+msgid "404 Page Background Color"
+msgstr ""
+
+#: core/customizer.php:1580
+msgid "Shop Listing Item Background Color"
+msgstr ""
+
+#: core/customizer.php:1591
+msgid "Blog Featured Posts"
+msgstr ""
+
+#: core/customizer.php:1602
+msgid "Featured Posts Status"
+msgstr ""
+
+#: core/customizer.php:1617
+msgid "Featured Posts Order By"
+msgstr ""
+
+#: core/customizer.php:1632 core/metabox.php:165
+#: core/widgets/featured-posts.php:56
+msgid "Number of Posts"
+msgstr ""
+
+#: core/customizer.php:1647
+msgid "Feature Image"
+msgstr ""
+
+#: core/customizer.php:1662 core/widgets/featured-posts.php:75
+#: core/vc-elements/blog/blog.php:99
+msgid "Post Meta"
+msgstr ""
+
+#: core/customizer.php:1677 core/metabox.php:208
+msgid "Excerpt"
+msgstr ""
+
+#: core/customizer.php:1690
+msgid "Error 404 Page"
+msgstr ""
+
+#: core/customizer.php:1712
+msgid "Code Before &lt;/head&gt;"
+msgstr ""
+
+#: core/customizer.php:1733
+msgid "Products on Page"
+msgstr ""
+
+#: core/customizer.php:1746
+msgid "Products in Row"
+msgstr ""
+
+#: core/customizer.php:1765
+msgid "WooCommerce Sidebar Position"
+msgstr ""
+
+#: core/customizer.php:1770 core/metabox.php:306 core/metabox.php:359
+#: core/vc-elements/button/custom_button.php:70
+#: core/vc-elements/button/custom_button.php:91
+#: core/vc-elements/contacts/contacts.php:32
+#: core/vc-elements/countdown/countdown.php:108
+#: core/vc-elements/counter/counter.php:49
+#: core/vc-elements/custom_products/custom_products.php:50
+#: core/vc-elements/iconbox/iconbox.php:80
+#: core/vc-elements/iconbox/iconbox.php:121
+#: core/vc-elements/iconbox/iconbox.php:144
+#: core/vc-elements/infobox/infobox.php:52
+#: core/vc-elements/infobox/infobox.php:75
+msgid "Left"
+msgstr ""
+
+#: core/customizer.php:1771 core/metabox.php:307 core/metabox.php:360
+#: core/vc-elements/button/custom_button.php:72
+#: core/vc-elements/button/custom_button.php:92
+#: core/vc-elements/contacts/contacts.php:33
+#: core/vc-elements/countdown/countdown.php:110
+#: core/vc-elements/counter/counter.php:50
+#: core/vc-elements/custom_products/custom_products.php:51
+#: core/vc-elements/iconbox/iconbox.php:82
+#: core/vc-elements/iconbox/iconbox.php:123
+#: core/vc-elements/iconbox/iconbox.php:146
+#: core/vc-elements/infobox/infobox.php:54
+#: core/vc-elements/infobox/infobox.php:77
+msgid "Right"
+msgstr ""
+
+#: core/customizer.php:1772 core/metabox.php:308 core/metabox.php:361
+#: core/vc-elements/stripes/stripes.php:91
+msgid "None"
+msgstr ""
+
+#: core/customizer.php:1784
+msgid "Products Sorting"
+msgstr ""
+
+#: core/customizer.php:1802
+msgid "Product Images Type"
+msgstr ""
+
+#: core/customizer.php:1807
+msgid "Circle"
+msgstr ""
+
+#: core/customizer.php:1820
+msgid "ADD to Cart"
+msgstr ""
+
+#: core/customizer.php:1823
+msgid ""
+"You can turn off the ability to add products to the cart if you do not plan "
+"to sell products on the site."
+msgstr ""
+
+#: core/customizer.php:1839
+msgid "Remove Product Page"
+msgstr ""
+
+#: core/customizer.php:1842
+msgid "Remove Links to Product Page"
+msgstr ""
+
+#: core/customizer.php:1845
+msgid "Links Not Removed"
+msgstr ""
+
+#: core/customizer.php:1846
+msgid "Links Removed"
+msgstr ""
+
+#: core/metabox.php:16
+msgid "Image Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:21
+msgid "Select Images"
+msgstr ""
+
+#: core/metabox.php:26
+msgid "Crop Images"
+msgstr ""
+
+#: core/metabox.php:29 core/vc-elements/testimonials/testimonials.php:24
+msgid "Yes"
+msgstr ""
+
+#: core/metabox.php:30
+msgid "No"
+msgstr ""
+
+#: core/metabox.php:35
+msgid "Image Width"
+msgstr ""
+
+#: core/metabox.php:37 core/metabox.php:48 core/metabox.php:73
+msgid "In pixels."
+msgstr ""
+
+#: core/metabox.php:46
+msgid "Image Height"
+msgstr ""
+
+#: core/metabox.php:60
+msgid "Video Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:65
+msgid "Video URL"
+msgstr ""
+
+#: core/metabox.php:67
+msgid "Copy link to the video from YouTube or other video-sharing website."
+msgstr ""
+
+#: core/metabox.php:71
+msgid "Video Height"
+msgstr ""
+
+#: core/metabox.php:81
+msgid "Audio Past Format Settings"
+msgstr ""
+
+#: core/metabox.php:86
+msgid "Audio URL"
+msgstr ""
+
+#: core/metabox.php:88
+msgid "Copy link to the audio from SoundCloud or other audio-sharing website."
+msgstr ""
+
+#: core/metabox.php:95
+msgid "Quote Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:100
+msgid "Quote Text"
+msgstr ""
+
+#: core/metabox.php:105
+msgid "Quote Author"
+msgstr ""
+
+#: core/metabox.php:110
+msgid "Quote Author Position"
+msgstr ""
+
+#: core/metabox.php:118
+msgid "Link Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:123
+msgid "Link URL"
+msgstr ""
+
+#: core/metabox.php:128
+msgid "Link Text"
+msgstr ""
+
+#: core/metabox.php:136
+msgid "Featured Posts Settings"
+msgstr ""
+
+#: core/metabox.php:141 core/widgets/featured-posts.php:35
+msgid "Featured Posts"
+msgstr ""
+
+#: core/metabox.php:144 core/metabox.php:154 core/metabox.php:168
+#: core/metabox.php:183 core/metabox.php:197 core/metabox.php:211
+#: core/metabox.php:233 core/metabox.php:243 core/metabox.php:253
+#: core/metabox.php:263 core/metabox.php:281 core/metabox.php:305
+#: core/metabox.php:316 core/metabox.php:334 core/metabox.php:358
+#: core/metabox.php:369
+msgid "Default"
+msgstr ""
+
+#: core/metabox.php:151 core/widgets/featured-posts.php:83
+msgid "Order By"
+msgstr ""
+
+#: core/metabox.php:155
+msgid "Random"
+msgstr ""
+
+#: core/metabox.php:156
+msgid "Date"
+msgstr ""
+
+#: core/metabox.php:180 core/vc-elements/blog/blog.php:112
+#: core/vc-elements/team/team.php:78
+#: core/vc-elements/testimonials/testimonials.php:81
+msgid "Featured Image"
+msgstr ""
+
+#: core/metabox.php:194
+msgid "Meta"
+msgstr ""
+
+#: core/metabox.php:273 core/metabox.php:326
+msgid "Page Settings"
+msgstr ""
+
+#: vc_templates/pm_vc_blog.php:76
+msgid "Comment"
+msgstr ""
+
+#: vc_templates/pm_vc_blog.php:78
+msgid "Comments"
+msgstr ""
+
+#: vc_templates/pm_vc_blog.php:117 vc_templates/pm_vc_blog.php:253
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: core/import/import.php:11
+msgid ""
+"After you import this demo, you will have to setup the slider separately. "
+"Slider Revolution > Import Slider. All the import files for the slider you "
+"will find in \"Slider Revolution Import\" folder."
+msgstr ""
+
+#: core/tgm/init.php:21
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/tgm/init.php:26
+msgid "Meta Box"
+msgstr ""
+
+#: core/tgm/init.php:33
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/tgm/init.php:40
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: core/tgm/init.php:46
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: core/tgm/init.php:55
+msgid "Revolution Slider"
+msgstr ""
+
+#: core/tgm/init.php:95
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/init.php:96
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/init.php:97
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/init.php:98
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/init.php:99
+#, php-format
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/init.php:100
+#, php-format
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/init.php:101
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr ""
+
+#: core/tgm/init.php:102
+#, php-format
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/init.php:103
+#, php-format
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/init.php:104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr ""
+
+#: core/tgm/init.php:105
+#, php-format
+msgid ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: core/tgm/init.php:106
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr ""
+
+#: core/tgm/init.php:107
+msgid "Begin installing plugins"
+msgstr ""
+
+#: core/tgm/init.php:108
+msgid "Begin activating plugins"
+msgstr ""
+
+#: core/tgm/init.php:109
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/init.php:110
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/init.php:111
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/widgets/cart.php:14
+msgid "Add shopping cart in style of Pixel-Mafia"
+msgstr ""
+
+#: core/widgets/cart.php:37 core/widgets/featured-posts.php:47
+#: core/widgets/quick-contact.php:43 core/vc-elements/infobox/infobox.php:19
+#: core/vc-elements/stripes/stripes.php:80
+msgid "Title"
+msgstr ""
+
+#: core/widgets/cart.php:71
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/widgets/cart.php:71
+msgid "View Cart"
+msgstr ""
+
+#: core/widgets/featured-posts.php:67
+msgid "Featured Images"
+msgstr ""
+
+#: core/widgets/quick-contact.php:52
+msgid "Phone"
+msgstr ""
+
+#: core/widgets/quick-contact.php:61
+msgid "Working Hours"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:10
+msgid "Best Offer"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:11
+msgid "Display best offer products"
+msgstr ""
+
+#. Author of the theme
+#: core/vc-elements/best_offer/best_offer.php:12
+#: core/vc-elements/blockquote/blockquote.php:12
+#: core/vc-elements/blog/blog.php:12
+#: core/vc-elements/button/custom_button.php:12
+#: core/vc-elements/contacts/contacts.php:12
+#: core/vc-elements/countdown/countdown.php:14
+#: core/vc-elements/counter/counter.php:12
+#: core/vc-elements/custom_products/custom_products.php:12
+#: core/vc-elements/iconbox/iconbox.php:12
+#: core/vc-elements/infobox/infobox.php:12
+#: core/vc-elements/map/custom_map.php:12
+#: core/vc-elements/product_listing/product_listing.php:19
+#: core/vc-elements/stripes/stripes.php:12
+#: core/vc-elements/stripes/stripes.php:63 core/vc-elements/team/team.php:12
+#: core/vc-elements/team/team.php:70
+#: core/vc-elements/testimonials/testimonials.php:12
+#: core/vc-elements/testimonials/testimonials.php:73
+msgid "Pixel-Mafia"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:19
+#: core/vc-elements/custom_products/custom_products.php:19
+#: core/vc-elements/product_listing/product_listing.php:17
+msgid "Product Listing"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:20
+#: core/vc-elements/custom_products/custom_products.php:20
+msgid "Enter the ids of products separated by commas"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:27
+#: core/vc-elements/blockquote/blockquote.php:91
+#: core/vc-elements/blog/blog.php:295
+#: core/vc-elements/button/custom_button.php:203
+#: core/vc-elements/contacts/contacts.php:64
+#: core/vc-elements/countdown/countdown.php:154
+#: core/vc-elements/counter/counter.php:98
+#: core/vc-elements/custom_products/custom_products.php:70
+#: core/vc-elements/iconbox/iconbox.php:197
+#: core/vc-elements/infobox/infobox.php:143
+#: core/vc-elements/map/custom_map.php:54
+#: core/vc-elements/product_listing/product_listing.php:99
+#: core/vc-elements/stripes/stripes.php:38
+#: core/vc-elements/stripes/stripes.php:130 core/vc-elements/team/team.php:45
+#: core/vc-elements/team/team.php:161
+#: core/vc-elements/testimonials/testimonials.php:47
+#: core/vc-elements/testimonials/testimonials.php:124
+msgid "Custom Class"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:37
+#: core/vc-elements/blockquote/blockquote.php:84
+#: core/vc-elements/blog/blog.php:288
+#: core/vc-elements/button/custom_button.php:196
+#: core/vc-elements/contacts/contacts.php:74
+#: core/vc-elements/countdown/countdown.php:147
+#: core/vc-elements/counter/counter.php:109
+#: core/vc-elements/custom_products/custom_products.php:80
+#: core/vc-elements/iconbox/iconbox.php:208
+#: core/vc-elements/infobox/infobox.php:154
+#: core/vc-elements/map/custom_map.php:65
+#: core/vc-elements/product_listing/product_listing.php:92
+#: core/vc-elements/stripes/stripes.php:32 core/vc-elements/team/team.php:38
+#: core/vc-elements/testimonials/testimonials.php:41
+msgid "CSS"
+msgstr ""
+
+#: core/vc-elements/best_offer/best_offer.php:39
+#: core/vc-elements/contacts/contacts.php:76
+#: core/vc-elements/custom_products/custom_products.php:82
+#: core/vc-elements/stripes/stripes.php:34
+msgid "Design Options"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:9
+msgid "Blockquote"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:18
+msgid "Blockquote Text"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:26
+#: core/vc-elements/testimonials/testimonials.php:94
+msgid "Author"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:34
+#: core/vc-elements/testimonials/testimonials.php:101
+msgid "Author Position"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:42
+#: core/vc-elements/blog/blog.php:44
+#: core/vc-elements/product_listing/product_listing.php:26
+msgid "View Type"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:43
+msgid "Select the view type"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:53
+msgid "Author Avatar"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:59
+msgid "Avatar Image"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:60
+#: core/vc-elements/contacts/contacts.php:48
+#: core/vc-elements/custom_products/custom_products.php:34
+msgid "Upload the custom image"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:71
+#: core/vc-elements/testimonials/testimonials.php:115
+msgid "Author Color"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:72
+msgid "Select the author color"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:79
+#: core/vc-elements/blog/blog.php:185 core/vc-elements/blog/blog.php:199
+#: core/vc-elements/blog/blog.php:213 core/vc-elements/blog/blog.php:227
+#: core/vc-elements/blog/blog.php:241 core/vc-elements/blog/blog.php:255
+#: core/vc-elements/blog/blog.php:269 core/vc-elements/blog/blog.php:283
+#: core/vc-elements/button/custom_button.php:125
+#: core/vc-elements/button/custom_button.php:135
+#: core/vc-elements/button/custom_button.php:149
+#: core/vc-elements/button/custom_button.php:163
+#: core/vc-elements/button/custom_button.php:177
+#: core/vc-elements/button/custom_button.php:191
+#: core/vc-elements/contacts/contacts.php:59
+#: core/vc-elements/countdown/countdown.php:122
+#: core/vc-elements/countdown/countdown.php:132
+#: core/vc-elements/countdown/countdown.php:142
+#: core/vc-elements/counter/counter.php:83
+#: core/vc-elements/counter/counter.php:93
+#: core/vc-elements/custom_products/custom_products.php:65
+#: core/vc-elements/iconbox/iconbox.php:158
+#: core/vc-elements/iconbox/iconbox.php:168
+#: core/vc-elements/iconbox/iconbox.php:182
+#: core/vc-elements/iconbox/iconbox.php:192
+#: core/vc-elements/infobox/infobox.php:118
+#: core/vc-elements/infobox/infobox.php:128
+#: core/vc-elements/infobox/infobox.php:138
+msgid "Color Options"
+msgstr ""
+
+#: core/vc-elements/blockquote/blockquote.php:86
+#: core/vc-elements/blog/blog.php:290
+#: core/vc-elements/button/custom_button.php:198
+#: core/vc-elements/countdown/countdown.php:149
+#: core/vc-elements/counter/counter.php:111
+#: core/vc-elements/iconbox/iconbox.php:210
+#: core/vc-elements/infobox/infobox.php:156
+#: core/vc-elements/map/custom_map.php:67
+#: core/vc-elements/product_listing/product_listing.php:94
+#: core/vc-elements/team/team.php:40 core/vc-elements/team/team.php:51
+#: core/vc-elements/testimonials/testimonials.php:43
+#: core/vc-elements/testimonials/testimonials.php:53
+msgid "Design options"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:9
+msgid "Blog"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:18
+msgid "Posts per Page"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:39 core/vc-elements/blog/blog.php:56
+#: core/vc-elements/blog/blog.php:73 core/vc-elements/blog/blog.php:94
+#: core/vc-elements/blog/blog.php:107 core/vc-elements/blog/blog.php:124
+#: core/vc-elements/blog/blog.php:137 core/vc-elements/blog/blog.php:154
+#: core/vc-elements/blog/blog.php:171 core/vc-elements/blog/blog.php:301
+#: core/vc-elements/button/custom_button.php:24
+#: core/vc-elements/button/custom_button.php:32
+#: core/vc-elements/button/custom_button.php:45
+#: core/vc-elements/button/custom_button.php:60
+#: core/vc-elements/button/custom_button.php:74
+#: core/vc-elements/button/custom_button.php:81
+#: core/vc-elements/button/custom_button.php:98
+#: core/vc-elements/button/custom_button.php:115
+#: core/vc-elements/button/custom_button.php:209
+#: core/vc-elements/countdown/countdown.php:59
+#: core/vc-elements/countdown/countdown.php:85
+#: core/vc-elements/countdown/countdown.php:98
+#: core/vc-elements/countdown/countdown.php:112
+#: core/vc-elements/countdown/countdown.php:160
+#: core/vc-elements/counter/counter.php:23
+#: core/vc-elements/counter/counter.php:32
+#: core/vc-elements/counter/counter.php:39
+#: core/vc-elements/counter/counter.php:56
+#: core/vc-elements/counter/counter.php:73
+#: core/vc-elements/counter/counter.php:104
+#: core/vc-elements/iconbox/iconbox.php:27
+#: core/vc-elements/iconbox/iconbox.php:40
+#: core/vc-elements/iconbox/iconbox.php:57
+#: core/vc-elements/iconbox/iconbox.php:70
+#: core/vc-elements/iconbox/iconbox.php:84
+#: core/vc-elements/iconbox/iconbox.php:93
+#: core/vc-elements/iconbox/iconbox.php:111
+#: core/vc-elements/iconbox/iconbox.php:125
+#: core/vc-elements/iconbox/iconbox.php:134
+#: core/vc-elements/iconbox/iconbox.php:148
+#: core/vc-elements/iconbox/iconbox.php:203
+#: core/vc-elements/infobox/infobox.php:24
+#: core/vc-elements/infobox/infobox.php:42
+#: core/vc-elements/infobox/infobox.php:56
+#: core/vc-elements/infobox/infobox.php:65
+#: core/vc-elements/infobox/infobox.php:79
+#: core/vc-elements/infobox/infobox.php:88
+#: core/vc-elements/infobox/infobox.php:95
+#: core/vc-elements/infobox/infobox.php:108
+#: core/vc-elements/infobox/infobox.php:149
+#: core/vc-elements/map/custom_map.php:23
+#: core/vc-elements/map/custom_map.php:36
+#: core/vc-elements/map/custom_map.php:49
+#: core/vc-elements/map/custom_map.php:60 core/vc-elements/team/team.php:33
+#: core/vc-elements/testimonials/testimonials.php:25
+#: core/vc-elements/testimonials/testimonials.php:32
+msgid "General"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:49
+msgid "Standard"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:50
+msgid "Simple"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:51
+msgid "Grid"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:61
+#: core/vc-elements/product_listing/product_listing.php:46
+#: core/vc-elements/team/team.php:21
+msgid "Columns"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:82
+msgid "Post Title"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:83
+msgid "Select to show or hide post titles"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:100 core/vc-elements/blog/blog.php:130
+msgid "Select to show or hide post meta"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:113
+msgid "Select to show or hide featured images"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:129
+msgid "Post Excerpt"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:142
+msgid "Read More Button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:143
+msgid "Select to show or hide read more buttons"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:159
+msgid "Pagination"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:160
+msgid "Select to show or hide pagination"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:177 core/vc-elements/infobox/infobox.php:124
+msgid "Select text color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:190 core/vc-elements/counter/counter.php:88
+#: core/vc-elements/infobox/infobox.php:113
+#: core/vc-elements/stripes/stripes.php:111
+msgid "Title Color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:191
+msgid "Select titles color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:204
+#: core/vc-elements/button/custom_button.php:120
+msgid "Button Text Color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:205
+msgid "Select color of Read More button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:218
+msgid "Button Hover Color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:219
+msgid "Select hover color of Read More button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:232
+msgid "Button Background Color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:233
+msgid "Select background color of Read More button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:246
+msgid "Button Background Hover"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:247
+msgid "Select background hover color of Read More button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:260
+msgid "Button Border Color"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:261
+msgid "Select border color of Read More button"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:274
+msgid "Button Border Hover"
+msgstr ""
+
+#: core/vc-elements/blog/blog.php:275
+msgid "Select border hover color of Read More button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:10
+msgid "Custom Button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:11
+msgid "Add Your Button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:19
+msgid "Button Text"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:22
+msgid "Text on the button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:29
+msgid "URL (Link)"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:31
+#: core/vc-elements/team/team.php:121
+msgid "Add link to button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:37
+msgid "Button Type"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:38
+msgid "Select button view type"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:42
+msgid "Bordered Button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:43
+msgid "Colored Button"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:50
+msgid "Button Size"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:51
+msgid "Select button size"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:55
+msgid "Mini"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:56
+msgid "Small"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:57
+msgid "Normal"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:58
+msgid "Large"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:65
+msgid "Button Alignment"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:66
+msgid "Select button alignment"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:71
+#: core/vc-elements/countdown/countdown.php:109
+#: core/vc-elements/iconbox/iconbox.php:81
+#: core/vc-elements/iconbox/iconbox.php:122
+#: core/vc-elements/iconbox/iconbox.php:145
+#: core/vc-elements/infobox/infobox.php:53
+#: core/vc-elements/infobox/infobox.php:76
+msgid "Center"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:79
+#: core/vc-elements/counter/counter.php:37
+msgid "Add Icon?"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:86
+#: core/vc-elements/counter/counter.php:44
+#: core/vc-elements/iconbox/iconbox.php:75
+msgid "Icon Alignment"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:87
+#: core/vc-elements/iconbox/iconbox.php:76
+msgid "Select icon alignment"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:103
+#: core/vc-elements/counter/counter.php:61 core/vc-elements/team/team.php:126
+msgid "Icon"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:104
+#: core/vc-elements/counter/counter.php:62
+#: core/vc-elements/iconbox/iconbox.php:46
+msgid "Select icon from library"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:121
+msgid "Select button text color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:130
+msgid "Hover Text Color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:131
+msgid "Select hover text color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:140
+msgid "Border Color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:141
+msgid "Select border color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:154
+msgid "Hover Border Color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:155
+msgid "Select hover border color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:168
+#: core/vc-elements/contacts/contacts.php:55
+#: core/vc-elements/countdown/countdown.php:137
+#: core/vc-elements/custom_products/custom_products.php:61
+#: core/vc-elements/iconbox/iconbox.php:187
+#: core/vc-elements/infobox/infobox.php:133
+msgid "Background Color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:169
+#: core/vc-elements/contacts/contacts.php:56
+#: core/vc-elements/custom_products/custom_products.php:62
+#: core/vc-elements/iconbox/iconbox.php:188
+#: core/vc-elements/infobox/infobox.php:134
+msgid "Select background color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:182
+msgid "Hover Background Color"
+msgstr ""
+
+#: core/vc-elements/button/custom_button.php:183
+msgid "Select hover background color"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:10
+msgid "Contacts"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:11
+msgid "Display element contacts"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:19
+#: core/vc-elements/map/custom_map.php:19
+msgid "Map Embed Code"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:20
+#: core/vc-elements/map/custom_map.php:20
+msgid "Enter code of Your map"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:27
+msgid "Map Position"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:28
+msgid "Select map position"
+msgstr ""
+
+#: core/vc-elements/contacts/contacts.php:40
+msgid "Enter Your contact information"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:11
+msgid "Countdown Timer"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:13
+msgid "Simple Countdown Timer."
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:19
+msgid "Day"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:64
+msgid "Month"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:90
+msgid "Year"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:103
+msgid "Counter Alignment"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:104
+msgid "Select countdown alignment"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:117
+msgid "Digits Color"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:118
+msgid "Select the color of digits"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:127
+msgid "Labels Color"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:128
+msgid "Select the color of labels"
+msgstr ""
+
+#: core/vc-elements/countdown/countdown.php:138
+msgid "Select the color of background"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:10
+msgid "Counter"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:11
+msgid "Display counter"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:19
+msgid "Counter Count"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:20
+msgid "Enter counter count"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:28
+msgid "Counter Title"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:29
+msgid "Enter counter title"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:45
+msgid "Select counter icon alignment"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:78
+msgid "Count Color"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:79
+msgid "Select counter count color"
+msgstr ""
+
+#: core/vc-elements/counter/counter.php:89
+msgid "Select counter title color"
+msgstr ""
+
+#: core/vc-elements/custom_products/custom_products.php:10
+msgid "Custom Products"
+msgstr ""
+
+#: core/vc-elements/custom_products/custom_products.php:11
+msgid "Display selected products"
+msgstr ""
+
+#: core/vc-elements/custom_products/custom_products.php:27
+msgid "Add Image"
+msgstr ""
+
+#: core/vc-elements/custom_products/custom_products.php:45
+msgid "Image Position"
+msgstr ""
+
+#: core/vc-elements/custom_products/custom_products.php:46
+msgid "Select image position"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:10
+msgid "Iconbox"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:11
+msgid "Display Iconbox"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:19
+msgid "Icon Type"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:20
+msgid "Select type of icon"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:24
+#: core/vc-elements/iconbox/iconbox.php:32
+msgid "Image Icon"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:25
+#: core/vc-elements/iconbox/iconbox.php:45
+msgid "Font Icon"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:33
+msgid "Upload the custom image icon"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:62
+msgid "Icon Font Size"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:63
+msgid "Enter font size"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:89
+msgid "Iconbox Heading"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:90
+msgid "Enter iconbox heading"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:98
+#: core/vc-elements/infobox/infobox.php:29
+msgid "Element Tag"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:99
+#: core/vc-elements/infobox/infobox.php:30
+msgid "Select element tag"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:103
+#: core/vc-elements/infobox/infobox.php:34
+msgid "h1"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:104
+#: core/vc-elements/infobox/infobox.php:35
+msgid "h2"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:105
+#: core/vc-elements/infobox/infobox.php:36
+msgid "h3"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:106
+#: core/vc-elements/infobox/infobox.php:37
+msgid "h4"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:107
+#: core/vc-elements/infobox/infobox.php:38
+msgid "h5"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:108
+#: core/vc-elements/infobox/infobox.php:39
+msgid "h6"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:109
+#: core/vc-elements/infobox/infobox.php:40
+msgid "p"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:116
+msgid "Iconbox Heading Alignment"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:117
+msgid "Select heading alignment"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:130
+msgid "Iconbox Text"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:131
+msgid "Enter iconbox text"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:139
+msgid "Iconbox Text Alignment"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:140
+msgid "Select iconbox text alignment"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:153
+msgid "Iconbox Heading Color"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:154
+msgid "Select iconbox heading color"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:163
+msgid "Iconbox Text Color"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:164
+msgid "Select icondox text color"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:173
+msgid "Icon Color"
+msgstr ""
+
+#: core/vc-elements/iconbox/iconbox.php:174
+msgid "Select icon color"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:10
+msgid "Info Box"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:11
+msgid "Display Your info box"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:20
+msgid "Enter info box title"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:47
+msgid "Title Alignment"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:48
+msgid "Select title alignment"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:61
+msgid "Info Box Text"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:62
+msgid "Enter Your information"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:70
+msgid "Text Alignment"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:71
+msgid "Select text alignment"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:84
+msgid "Info Box Height"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:85
+msgid "Enter height of info box (in pixels)"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:93
+msgid "Background Image?"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:101
+msgid "Upload the background image"
+msgstr ""
+
+#: core/vc-elements/infobox/infobox.php:114
+msgid "Select title color"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:10
+msgid "Custom Map"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:11
+msgid "Display Your custom map"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:28
+msgid "Map Height Mode"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:29
+msgid "Select map height mode"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:33
+msgid "The map have full height of the parent element"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:34
+msgid "Custom height of the map (in pixels)"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:41
+msgid "Map Height"
+msgstr ""
+
+#: core/vc-elements/map/custom_map.php:42
+msgid "Enter map heading (in pixels)"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:18
+msgid "List all products in style of Pixel-Mafia"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:27
+msgid "Select element view type"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:38
+msgid "Products Per Page"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:39
+msgid "Enter the number of products displayed on page"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:47
+msgid "Select the number of columns"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:51
+msgid "2"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:52
+msgid "3"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:53
+msgid "4"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:54
+msgid "5"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:64
+msgid "Sort Order"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:65
+msgid "Select ordering type"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:69
+msgid "Ascending"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:70
+msgid "Descending"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:76
+msgid "Displayed Product Category"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:77
+msgid "Select the first of the displayed category"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:84
+msgid "Length of Excerpt"
+msgstr ""
+
+#: core/vc-elements/product_listing/product_listing.php:85
+msgid "Enter the number of character of the excerpt"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:10
+msgid "Stripes"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:11
+msgid "Display stripe slider"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:21
+msgid "Select Layout"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:26
+msgid "Fullscreen Layout"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:27
+msgid "Content Layout"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:61
+msgid "Stripe Item"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:62
+msgid "Create sprite slide"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:71
+msgid "Item Background Image"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:72 core/vc-elements/team/team.php:80
+#: core/vc-elements/testimonials/testimonials.php:83
+msgid "Select featured image from media library."
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:87
+msgid "Link Type"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:92
+msgid "Link on whole item"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:93
+msgid "Link on title"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:100
+msgid "Item Link"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:112
+msgid "Select Title color."
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:116
+#: core/vc-elements/stripes/stripes.php:125
+msgid "Color Option"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:120
+msgid "Overlay Color"
+msgstr ""
+
+#: core/vc-elements/stripes/stripes.php:121
+msgid "Select overlay color."
+msgstr ""
+
+#: core/vc-elements/team/team.php:10
+msgid "Team"
+msgstr ""
+
+#: core/vc-elements/team/team.php:11
+msgid "Display Team"
+msgstr ""
+
+#: core/vc-elements/team/team.php:68
+msgid "Team Item"
+msgstr ""
+
+#: core/vc-elements/team/team.php:69
+msgid "Create the team item"
+msgstr ""
+
+#: core/vc-elements/team/team.php:86
+msgid "Name"
+msgstr ""
+
+#: core/vc-elements/team/team.php:88
+msgid "Enter the name of the worker"
+msgstr ""
+
+#: core/vc-elements/team/team.php:95
+msgid "Position"
+msgstr ""
+
+#: core/vc-elements/team/team.php:97
+msgid "Enter the position of the worker"
+msgstr ""
+
+#: core/vc-elements/team/team.php:103
+msgid "Add Social Buttons?"
+msgstr ""
+
+#: core/vc-elements/team/team.php:109
+msgid "Social Buttons"
+msgstr ""
+
+#: core/vc-elements/team/team.php:119
+msgid "URL (link)"
+msgstr ""
+
+#: core/vc-elements/team/team.php:129
+msgid "Select icon from library."
+msgstr ""
+
+#: core/vc-elements/team/team.php:140
+msgid "Button color"
+msgstr ""
+
+#: core/vc-elements/team/team.php:147
+msgid "Hover Color"
+msgstr ""
+
+#: core/vc-elements/team/team.php:149
+msgid "Button hover color"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:10
+msgid "Testimonials"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:11
+msgid "Display Testimonials slider"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:21
+msgid "Autoplay"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:23
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:29
+msgid "Autoplay Speed"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:71
+msgid "Testimonials Item"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:72
+msgid "Create testimonial item"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:88
+msgid "Testimonial Text"
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:110
+msgid "Select text color for testimonial text."
+msgstr ""
+
+#: core/vc-elements/testimonials/testimonials.php:118
+msgid "Select text color for testimonial author."
+msgstr ""
+
+#. Name of the theme
+msgid "Vincent"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Meet WordPress Theme by Pixel-Mafia - really amazing, powerful, clean and "
+"ultramodern product, that created with love and attention to details. We "
+"know it's difficult to represent yourself on the web in the right way, "
+"that's why we spent a lot of time trying to make our Theme more effective. "
+"It's flexible, easy customizable, high-quality and really easy to use. So "
+"everyone can make awesome website with it. Hope you'll like it. Enjoy!"
+msgstr ""
+
+#. URI of the theme
+msgid "http://pixel-mafia.com/demo/wordpress-themes/vincent/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://pixel-mafia.com"
+msgstr ""
