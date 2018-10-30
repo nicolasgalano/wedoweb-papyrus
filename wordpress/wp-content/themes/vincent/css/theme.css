@@ -375,6 +375,7 @@ html.vincent_height_100 {
 header {
     position: relative;
     z-index: 30000;
+    background:#ffe786;
 }
 
 header.header_type_2 .vincent_header_sidebar .widget,
@@ -398,6 +399,9 @@ header.header_type_2 .vincent_menu_inner,
 header.header_type_3 .vincent_menu_inner {
     padding-left: 40px;
     padding-right: 40px;
+}
+header.header_type_2 .vincent_menu_inner{
+    padding-top: 50px !important;
 }
 
 html.vincent_transparent_header header {
@@ -445,7 +449,7 @@ header .vincent_menu li a {
 }
 
 header .vincent_menu > li > a {
-    letter-spacing: 4px;
+    letter-spacing: 0px;
     padding-top: 10px;
     padding-bottom: 29px;
 }
@@ -798,10 +802,17 @@ footer .vincent_image_logo {
 footer {
     border-top: 1px solid;
     text-align: center;
+    background-color:#ffe786 !important;
+}
+
+footer .vincent_image_logo{
+    width:220px !important;
+    height:44px !important;
+    background-size: contain !important;
 }
 
 .vincent_footer_socials_cont {
-    margin: 25px 0;
+    margin: 30px 0;
     font-size: 0;
     line-height: 0;
 }
@@ -811,21 +822,26 @@ footer {
     font-size: 17px;
     line-height: 17px;
     margin: 0 10px;
-    color: #FFFFFF;
+    color: #4d7a39;
 }
 
 .vincent_copy_text {
     /*padding-top: 45px;*/
-    padding-bottom: 55px;
+    padding-bottom: 0px;
     font-size: 14px;
     font-weight: 300;
     opacity: 0.5;
 }
 
 .vincent_ftext {
-    font-size: 16px;
-    letter-spacing: 2px;
-    margin-bottom: 20px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    font-family:'Open Sans' !important;
+    color:#4d7a39 !important;
+    width:320px;
+    margin:0 auto 32px;
+    line-height: 23px;
+
 }
 
 .vincent_ftext span {
@@ -841,15 +857,23 @@ footer {
 .vincent_footer_menu li, .vincent_menu li {
     display: inline-block;
     text-transform: uppercase;
-    letter-spacing: 3px;
-    font-size: 14px;
-    line-height: 14px;
-    margin-right: 38px;
+    letter-spacing: 0px;
+    font-size: 15px;
+    line-height: 15px;
+    margin-right: 40px;
     list-style: none;
 }
 
 .vincent_footer_menu li:last-child {
     margin-right: 0;
+}
+
+.vincent_footer_menu a {
+    text-decoration: none;
+    font-family:"Asul" !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:#000;
 }
 
 .vincent_footer_menu a:hover {
@@ -3500,29 +3524,29 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     .vincent_vc_contacts.with_map .columns_3 .vincent_contact_text {
         width: 60%;
     }
-    
+
     .vincent_back_to_top {
 	    width: 45px;
 		height: 45px;
     }
-    
+
     .vincent_back_to_top:after {
 	    font-size: 37px;
         line-height: 43px;
     }
-    
+
     body .vc_custom_1493729259154 {
         padding-left: 0 !important;
         padding-right: 0 !important;
     }
 }
 
-@media only screen and (max-width: 1280px) {    
+@media only screen and (max-width: 1280px) {
     .vincent_back_to_top {
 	    width: 45px;
 		height: 45px;
     }
-    
+
     .vincent_back_to_top:after {
 	    font-size: 37px;
         line-height: 43px;
