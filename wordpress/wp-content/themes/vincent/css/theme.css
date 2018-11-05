@@ -625,9 +625,9 @@ header .vincent_menu .sub-menu li.menu-item-has-children:after {
 
 .vincent_title_block h1 {
     font-size: 40px;
-    line-height: 40px;
+    line-height: 46px;
     text-transform: uppercase;
-    letter-spacing: 6px;
+    letter-spacing: 0px;
 }
 
 .vincent_corners:after,
@@ -800,7 +800,7 @@ footer .vincent_image_logo {
 }
 
 footer {
-    border-top: 1px solid;
+    border-top: 0px solid;
     text-align: center;
     background-color:#ffe786 !important;
 }
@@ -885,7 +885,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 35px;
     font-weight: 400;
-    text-transform: uppercase;
     word-wrap: break-word;
 }
 
@@ -894,28 +893,28 @@ h1:empty, h2:empty, h3:empty, h4:empty, h5:empty, h6:empty {
 }
 
 .vincent_tiny h1 {
-    letter-spacing: 8px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny h2 {
-    letter-spacing: 6px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny h3 {
-    letter-spacing: 5px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny h4 {
-    letter-spacing: 5px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny h5 {
     font-weight: 700;
-    letter-spacing: 4px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny h6 {
-    letter-spacing: 3px;
+    letter-spacing: 0px;
 }
 
 .vincent_tiny .vincent_headings h1 {
@@ -960,7 +959,7 @@ p:empty {
 }
 
 .vincent_content, .vincent_sidebar {
-    margin-top: 75px;
+    margin-top: 0;
 }
 
 .vincent_transparent_header.vincent_non_page_title .vincent_content,
@@ -1909,8 +1908,8 @@ a.vincent_hover_style:hover:after {
 
 .vincent_404_content_wrapper h1 {
     font-size: 40px;
-    line-height: 40px;
-    letter-spacing: 8px;
+    line-height: 46px;
+    letter-spacing: 0px;
     margin-bottom: 55px;
 
 }
@@ -4202,4 +4201,64 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     .vincent_vc_contacts.with_map .columns_3 .vincent_contact_map .wrapper {
         height: 320px !important;
     }
+}
+
+
+/*CUSTOM EXTRAS*/
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-bold{
+    font-weight: bold;
+}
+.text-custom1{
+    font-size:22px;
+    font-weight:400;
+    line-height: 30px;
+    color:#4D7A39;
+}
+.text-custom2{
+    font-size:22px;
+    font-weight:400;
+    line-height: 30px;
+    color:#FFE786;
+}
+
+.text-menu1{
+
+}
+.text-menu1 h2{
+    font-size:22px;
+    font-weight:400;
+    line-height: 30px;
+    font-family:"Asul" !important;
+    color:#4D7A39;
+}
+.text-menu1 .vincent_ingredients_field span{
+    font-family:"Open Sans" !important;
+    color:#4D7A39;
+}
+.text-menu1 .price span{
+    font-family:"Open Sans" !important;
+    color:#4D7A39;
+}
+.text-menu1 .vincent_menu_dots{
+    border-color:#4D7A39 !important;
+}
+
+
+div.btn-custom1{
+    background-color: transparent !important;
+}
+.btn-custom1 a, .btn-custom1 button{
+    width:200px;
+    border:none !important;
+    background-color:#4D7A39 !important;
+    color:#FFE786 !important;
+    font-size:26px !important;
+    font-weight:700 !important;
+    line-height: 30px !important;
+    font-family:"Asul" !important;
+    text-transform: uppercase;
+    background-image: none !important;
 }

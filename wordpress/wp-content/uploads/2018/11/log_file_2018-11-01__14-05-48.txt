@@ -1,0 +1,534 @@
+
+---Downloaded files---
+The import files for: Vincent were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://papyrus.local
+Data file = /Applications/XAMPP/xamppfiles/htdocs/Server/papyrus/wordpress/wp-content/uploads/2018/11/demo-content-import-file_2018-11-01__14-05-48.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/Server/papyrus/wordpress/wp-content/uploads/2018/11/demo-widgets-import-file_2018-11-01__14-05-48.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "back_5" (Media)
+[ERROR] Failed to import "24" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Featured Posts (PM) - Featured Posts - Imported
+Categories - Blog Categories - Imported
+Tag Cloud - Tags - Imported
+Instagram - Insta Feed - Imported
+
+Header (Left) : 
+
+Quick Contact (PM) - No Title - Imported
+
+Header (Right) : 
+
+Shopping Cart (PM) - No Title - Imported
+
+WooCommerce : 
+
+Cart - Shopping Cart - Imported
+Product Categories - Menu categories - Imported
+Filter Products by Price - Filter by price - Imported
+Product Tag Cloud - Tags - Imported
+Products - Featured Menu Items - Imported
+
+
+
+---pt-ocdi/after_import---
+
