@@ -3608,7 +3608,7 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
 
 }
 
-@media only screen and (max-width: 737px) {
+@media only screen and (max-width: 992px) {
     /* Menu Mobile */
     .vincent_menu_cont {
         display: none;
@@ -3657,7 +3657,7 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     }
 
     .vincent_trigger_container {
-        width: 30px;
+        width: 38px;
         height: 24px;
         display: inline-block;
         position: relative;
@@ -3666,10 +3666,10 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     .vincent_trigger_inner,
     .vincent_trigger_inner:before,
     .vincent_trigger_inner:after {
-        width: 30px;
-        height: 2px;
+        width: 38px;
+        height: 4px;
         display: block;
-        background: #FFFFFF;
+        background: #4D7A39;
         position: absolute;
         transition-property: -webkit-transform;
         transition-property: transform;
@@ -3731,7 +3731,7 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     .vincent_menu_mobile {
         padding-top: 20px;
         margin-bottom: 20px;
-        border-top: solid 1px rgba(255, 255, 255, .5);
+        border-top: solid 1px #4D7A39;
     }
 
     .vincent_transparent_header .vincent_menu_mobile {
@@ -3741,13 +3741,15 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     .vincent_menu_mobile .vincent_menu > li {
         display: block;
         margin: 0;
+        text-align:center;
     }
 
     .vincent_menu_mobile .vincent_menu > li a {
         display: inline-block;
         padding: 0;
         margin: 0;
-        line-height: 36px;
+        line-height: 60px;
+        font-size: 24px;
         position: relative;
     }
 
@@ -4235,12 +4237,15 @@ body .vc_tta-tabs .vc_tta-tabs-list li:before {
     color:#4D7A39;
 }
 .text-menu1 .vincent_ingredients_field span{
-    font-family:"Open Sans" !important;
-    color:#4D7A39;
+    font-family: "Open Sans" !important;
+    color: #4D7A39;
+    font-size: 16px;
+    line-height: 20px !important;
+    font-weight: 400;
 }
 .text-menu1 .price span{
     font-family:"Open Sans" !important;
-    color:#4D7A39;
+    color:#333;
 }
 .text-menu1 .vincent_menu_dots{
     border-color:#4D7A39 !important;
@@ -4261,4 +4266,21 @@ div.btn-custom1{
     font-family:"Asul" !important;
     text-transform: uppercase;
     background-image: none !important;
+}
+
+/*WOOSHIT*/
+.vc_column-inner .woocommerce ul.products li.product h2{
+    letter-spacing: 0px !important;
+}
+.vincent_vc_custom_products .vincent_custom_prod_listing_box{
+    padding:0 !important;
+}
+.button.product_type_simple{
+    display:none !important;
+}
+.vc_column-inner .woocommerce ul.products li.product a:hover h2{
+    color:#4D7A39 !important;
+}
+.woocommerce ul.products li.product a{
+    cursor:default !important;
 }
