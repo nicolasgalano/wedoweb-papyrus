@@ -4284,3 +4284,28 @@ div.btn-custom1{
 .woocommerce ul.products li.product a{
     cursor:default !important;
 }
+@media only screen and (min-width: 569px) {
+    .vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item{
+        height:350px !important;
+        overflow: hidden;
+    }
+    .vc_images_carousel.vc_build .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item .vc_inner{
+        position: relative;
+        top: -20%;
+    }
+    .vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item .vc-inner{
+        position: relative;
+        top: -20%;
+    }
+}
+.vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item img{
+    width:100% !important;
+}
+.vc_images_carousel .vc_carousel-indicators li{
+    background:#4d7a39 !important;
+    border-color:#4d7a39 !important;
+}
+.vc_images_carousel .vc_carousel-indicators .vc_active{
+    border-color:#4d7a39 !important;
+    background:transparent !important;
+}
