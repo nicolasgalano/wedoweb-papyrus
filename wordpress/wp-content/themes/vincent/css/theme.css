@@ -4286,16 +4286,16 @@ div.btn-custom1{
 }
 @media only screen and (min-width: 569px) {
     .vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item{
-        height:350px !important;
+        height:400px !important;
         overflow: hidden;
     }
     .vc_images_carousel.vc_build .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item .vc_inner{
         position: relative;
-        top: -20%;
+        top: -25vh;
     }
     .vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item .vc-inner{
         position: relative;
-        top: -20%;
+        top: -25vh;
     }
 }
 .vc_images_carousel .vc_carousel-inner .vc_carousel-slideline .vc_carousel-slideline-inner>.vc_item img{

@@ -1,3 +1,0 @@
-
----Downloaded files---
-An error occurred while fetching file from: <strong>http://papyrus.local/wp-content/themes/vincent/core/import/import.xml</strong>!<br>Reason: http_request_failed - cURL error 6: name lookup timed out.<br>
